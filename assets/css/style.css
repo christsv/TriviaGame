@@ -1,0 +1,40 @@
+#start-area{
+    background:lightblue;
+    text-align: center;
+    padding: 5%;
+    border: 3px dotted; 
+    margin: 0 5%;
+}
+
+.container{
+    background:yellow;
+    box-sizing: border-box;
+    /** 5 % is for up and down 0 is for left and right **/
+    padding: 5% 0;
+    margin: 10% ;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-image: url("../images/tacky.jpg");
+    text-align: center;
+}
+
+button{
+    height:100px;
+    width: 400px;
+    font-size: 42px;
+    background: #fff17a;
+    cursor: pointer;
+    border: 3px groove;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#counter{
+    background: blue;
+}
